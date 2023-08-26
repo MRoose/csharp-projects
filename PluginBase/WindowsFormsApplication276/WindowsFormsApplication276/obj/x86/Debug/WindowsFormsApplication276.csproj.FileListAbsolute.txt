@@ -1,0 +1,9 @@
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\WindowsFormsApplication276.exe
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\WindowsFormsApplication276.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.Properties.Resources.resources
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.csproj.GenerateResource.Cache
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.exe
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\PluginBase.dll
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\PluginBase.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\PluginBase\bin\Debug\PluginBase.dll
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\PluginBase\bin\Debug\PluginBase.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\PluginBase\obj\Debug\PluginBase.dll
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\PluginBase\obj\Debug\PluginBase.pdb

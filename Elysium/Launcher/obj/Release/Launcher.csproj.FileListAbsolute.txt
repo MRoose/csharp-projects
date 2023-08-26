@@ -1,0 +1,9 @@
+F:\Documents\Visual Studio 2017\Projects\Elysium\Launcher\bin\Release\Launcher.exe
+F:\Documents\Visual Studio 2017\Projects\Elysium\Launcher\bin\Release\Launcher.pdb
+F:\Documents\Visual Studio 2017\Projects\Elysium\Launcher\obj\Release\Launcher.csprojAssemblyReference.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\Launcher\obj\Release\Launcher.Launcher.resources
+F:\Documents\Visual Studio 2017\Projects\Elysium\Launcher\obj\Release\Launcher.Properties.Resources.resources
+F:\Documents\Visual Studio 2017\Projects\Elysium\Launcher\obj\Release\Launcher.csproj.GenerateResource.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\Launcher\obj\Release\Launcher.csproj.CoreCompileInputs.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\Launcher\obj\Release\Launcher.exe
+F:\Documents\Visual Studio 2017\Projects\Elysium\Launcher\obj\Release\Launcher.pdb

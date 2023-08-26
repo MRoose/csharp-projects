@@ -1,0 +1,16 @@
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\bin\Debug\Ely_emp.exe
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\bin\Debug\Ely_emp.pdb
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\bin\Debug\ConnCore.dll
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\bin\Debug\QuestCore.dll
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\bin\Debug\System.Data.SQLite.dll
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\bin\Debug\ConnCore.pdb
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\bin\Debug\QuestCore.pdb
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\bin\Debug\QuestCore.dll.config
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\obj\Debug\Ely_emp.csprojAssemblyReference.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\obj\Debug\Ely_emp.csproj.ResolveComReference.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\obj\Debug\Ely_emp.emp.resources
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\obj\Debug\Ely_emp.csproj.GenerateResource.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\obj\Debug\Ely_emp.csproj.CoreCompileInputs.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\obj\Debug\Ely_emp.csproj.CopyComplete
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\obj\Debug\Ely_emp.exe
+F:\Documents\Visual Studio 2017\Projects\Elysium\Elysium_emp\obj\Debug\Ely_emp.pdb

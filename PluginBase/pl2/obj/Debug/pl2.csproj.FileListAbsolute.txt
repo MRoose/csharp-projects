@@ -1,0 +1,10 @@
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\Plugins\pl2.dll
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\Plugins\pl2.pdb
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\pl2\obj\Debug\pl2.csprojAssemblyReference.cache
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\pl2\obj\Debug\pl2.Properties.Resources.resources
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\pl2\obj\Debug\pl2.UserControl1.resources
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\pl2\obj\Debug\pl2.csproj.GenerateResource.cache
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\pl2\obj\Debug\pl2.csproj.CoreCompileInputs.cache
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\pl2\obj\Debug\pl2.csproj.CopyComplete
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\pl2\obj\Debug\pl2.dll
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\pl2\obj\Debug\pl2.pdb
