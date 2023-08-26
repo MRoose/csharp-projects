@@ -1,0 +1,22 @@
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\WindowsFormsApplication276.exe
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\WindowsFormsApplication276.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.Properties.Resources.resources
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.csproj.GenerateResource.Cache
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.exe
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\PluginBase.dll
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\PluginBase.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.csprojResolveAssemblyReference.cache
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\WindowsFormsApplication276.exe
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\WindowsFormsApplication276.pdb
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\PluginBase.dll
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\PluginBase.pdb
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.csprojAssemblyReference.cache
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.MainForm.resources
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.Properties.Resources.resources
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.UserControl1.resources
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.csproj.GenerateResource.cache
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.csproj.CoreCompileInputs.cache
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.csproj.CopyComplete
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.exe
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\WindowsFormsApplication276\obj\x86\Debug\WindowsFormsApplication276.pdb

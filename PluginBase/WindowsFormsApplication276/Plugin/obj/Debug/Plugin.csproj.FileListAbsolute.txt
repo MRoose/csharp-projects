@@ -1,0 +1,11 @@
+C:\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\Plugin.dll
+C:\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\Plugin.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\Plugin\obj\Debug\Plugin.csprojResolveAssemblyReference.cache
+D:\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\Plugin.dll
+D:\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\Plugin.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\Plugin.dll
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\Plugin.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\Plugins\Plugin1.dll
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\WindowsFormsApplication276\bin\Debug\Plugins\Plugin1.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\Plugin\obj\Debug\Plugin1.dll
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\Plugin\obj\Debug\Plugin1.pdb

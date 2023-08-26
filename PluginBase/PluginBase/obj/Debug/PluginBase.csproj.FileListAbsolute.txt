@@ -1,0 +1,9 @@
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\PluginBase\bin\Debug\PluginBase.dll
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\PluginBase\bin\Debug\PluginBase.pdb
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\PluginBase\obj\Debug\PluginBase.dll
+C:\Projects_CSharp\Examples\WindowsFormsApplication276\PluginBase\obj\Debug\PluginBase.pdb
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\PluginBase\bin\Debug\PluginBase.dll
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\PluginBase\bin\Debug\PluginBase.pdb
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\PluginBase\obj\Debug\PluginBase.csproj.CoreCompileInputs.cache
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\PluginBase\obj\Debug\PluginBase.dll
+F:\Documents\Visual Studio 2017\Projects\WindowsFormsApplication276\PluginBase\obj\Debug\PluginBase.pdb

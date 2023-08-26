@@ -1,0 +1,12 @@
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\bin\Debug\ConnCore.dll
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\bin\Debug\ConnCore.pdb
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\bin\Debug\System.Data.SQLite.dll
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\obj\Debug\ConnCore.csprojAssemblyReference.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\obj\Debug\ConnCore.csproj.ResolveComReference.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\obj\Debug\ConnCore.form_feedback.resources
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\obj\Debug\ConnCore._dRes.resources
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\obj\Debug\ConnCore.csproj.GenerateResource.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\obj\Debug\ConnCore.csproj.CoreCompileInputs.cache
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\obj\Debug\ConnCore.csproj.CopyComplete
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\obj\Debug\ConnCore.dll
+F:\Documents\Visual Studio 2017\Projects\Elysium\ConnCore\obj\Debug\ConnCore.pdb
